@@ -16,7 +16,7 @@ const Home = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl md:text-7xl font-bold text-white">
-                        I am a full stack developer
+                        I am a Front-end developer
                     </h2>
                     <p className="text-gray-500 py-4 mx-w-md">
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero doloribus commodi, natus, eum dignissimos temporibus saepe sapiente amet, veritatis officiis illum! Ut, aperiam. Non, cupiditate? Nulla, minima! Eaque, voluptatum corrupti?
