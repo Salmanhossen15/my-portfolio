@@ -12,40 +12,40 @@ const Experience = () => {
         },
         {
             id: 2,
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-            title:"HTML",
-            style: "shadow-orange-500"
+            src: "https://img.freepik.com/free-icon/css_318-698167.jpg?size=626&ext=jpg&ga=GA1.2.276070302.1680262065&semt=ais",
+            title:"CSS",
+            style: "shadow-blue-500"
         },
         {
             id: 3,
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-            title:"HTML",
-            style: "shadow-orange-500"
+            src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3Z7Qx0guvXKY0WgStMeHGBFu4Qay8YqYDPBvCwk&s",
+            title:"JAVASCRIPT",
+            style: "shadow-yellow-500"
         },
         {
             id: 4,
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-            title:"HTML",
+            src: "https://cdn-icons-png.flaticon.com/512/919/919825.png",
+            title:"NODE JS",
             style: "shadow-orange-500"
         },
         {
             id: 5,
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-            title:"HTML",
+            src: "https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png",
+            title:"MONGODB",
             style: "shadow-orange-500"
         },
         {
             id: 6,
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-            title:"HTML",
+            src: "https://icons.getbootstrap.com/assets/img/icons-hero.png",
+            title:"BOOTSTRAP",
             style: "shadow-orange-500"
         },
     ]
     return (
         <div name="experience" className="bg-gradient-to-b from-gray-800 to-black w-full h-screen ">
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full text-white">
-                <div>
-                    <p className="text-4xl font-bold inline border-b-4 border-gray-500">experiences</p>
+                <div className="text-center">
+                    <p className="text-4xl font-bold inline border-b-4 border-gray-500">--- Skills ---</p>
                     <p className="py-6">this is the teqnologes i ahave been work with</p>
                 </div>
 
