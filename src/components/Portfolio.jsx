@@ -1,4 +1,9 @@
-import project1 from "../assets/project1.png"
+import project1 from "../assets/project11 (2).png"
+import project2 from "../assets/project2 (2).png"
+import project3 from "../assets/project3.png"
+import project4 from "../assets/project4.png"
+import project5 from "../assets/project5.png"
+import project6 from "../assets/project6.png"
 
 const Portfolio = () => {
 
@@ -11,28 +16,28 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: "https://i.ytimg.com/vi/cWk5EKVxrgo/maxresdefault.jpg",
-            demoLink:"https://summer-camp-a300e.web.app/"
+            src: project2,
+            demoLink:"https://toy-market-51ca8.web.app/"
         },
         {
             id: 3,
-            src: "https://i.ytimg.com/vi/cWk5EKVxrgo/maxresdefault.jpg",
-            demoLink:"https://summer-camp-a300e.web.app/"
+            src: project3,
+            demoLink:"https://chef-website-assignment.web.app/"
         },
         {
             id: 4,
-            src: "https://i.ytimg.com/vi/cWk5EKVxrgo/maxresdefault.jpg",
-            demoLink:"https://summer-camp-a300e.web.app/"
+            src: project4,
+            demoLink:"https://regal-bombolone-116b32.netlify.app/"
         },
         {
             id: 5,
-            src: "https://i.ytimg.com/vi/cWk5EKVxrgo/maxresdefault.jpg",
-            demoLink:"https://summer-camp-a300e.web.app/"
+            src: project5,
+            demoLink:"https://friendly-babka-8aa67d.netlify.app/"
         },
         {
             id: 6,
-            src: "https://i.ytimg.com/vi/cWk5EKVxrgo/maxresdefault.jpg",
-            demoLink:"https://summer-camp-a300e.web.app/"
+            src: project6,
+            demoLink:"https://glistening-bunny-6d5224.netlify.app/"
         },
     ]
     return (
