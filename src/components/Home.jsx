@@ -5,10 +5,10 @@ import profile from "../assets/Profile.jpg"
 const Home = () => {
 
     const handleDownload = () => {
-        const resumeUrl = '/public/Resume of Salman1.pdf';
+        const resumeUrl ="/Resume of Salman1.pdf";
         const link = document.createElement('a');
         link.href = resumeUrl;
-        link.download = '/public/Resume of Salman1.pdf';
+        link.download ="/Resume of Salman1.pdf";
         link.click();
       };
       
